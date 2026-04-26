@@ -1,0 +1,2 @@
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'TimetableApp2026!';
+FLUSH PRIVILEGES;
